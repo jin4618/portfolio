@@ -1,13 +1,13 @@
-# 김지은 포트폴리오
+# 포트폴리오
 >개발자
 
 </br>
 
 ## :pushpin: Intro
-(자기소개)
+<!-- (자기소개) -->
 
 ## :pushpin: Contact
-- Email: wldmsdl2395@naver.com
+<!-- - Email: wldmsdl2395@naver.com -->
 - GitHub: https://github.com/jin4618
 
 </br>
