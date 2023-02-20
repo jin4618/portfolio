@@ -13,6 +13,7 @@
 </br>
 
 ## :pushpin: Projects
+<!--
 ### 1. [첫 번째 프로젝트]()
 >카페스마트오더 (팀 프로젝트)
 >개발 기간:
@@ -46,3 +47,4 @@
 >Java 11 / JavaScript / css / Jsp / Ajax / Oracle
 >
 >[프로젝트 상세 설명]() 참고
+-->
