@@ -15,7 +15,7 @@
 ## :pushpin: Projects
 
 ### 1. [CafeSmartOrder](https://github.com/jin4618/cafesmartorder)
->카페스마트오더 (팀 프로젝트)
+>카페스마트오더 (팀 프로젝트)   
 >개발 기간: 2022.9.13. ~ 2022.9.19.   
 >
 기술 스택:
@@ -28,7 +28,7 @@
 ## :pushpin: Projects
 ### 2. [Mubi]()
 >Mubi 영화 예매 웹 사이트 (팀 프로젝트)
->개발 기간:
+>개발 기간:    
 >
 기술 스택:
 >Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
@@ -39,8 +39,8 @@
 ---
 -->
 ### 3. [marguerite](https://github.com/jin4618/marguerite)
->marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)
->개발 기간: 2023.01.02. ~ 2023.01.31.
+>marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)   
+>개발 기간: 2023.01.02. ~ 2023.01.31.   
 >
 >기술 스택:
 >Java 11 / JavaScript / css / Jsp / Ajax / Oracle
