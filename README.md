@@ -1,5 +1,5 @@
 # 포트폴리오
->실패 속에서 성장하는 개발자
+><!-- 실패 속에서 성장하는 개발자 -->
 
 </br>
 
@@ -13,16 +13,17 @@
 </br>
 
 ## :pushpin: Projects
-
+<!--
 ### 1. [CafeSmartOrder](https://github.com/jin4618/cafesmartorder)
 >카페스마트오더 (팀 프로젝트)   
+>
 >개발 기간: 2022.9.13. ~ 2022.9.19.   
 >
-기술 스택: 
+>기술 스택: 
 >Java 11 / Oracle
 >
 >[프로젝트 상세 설명](https://github.com/jin4618/cafesmartorder) 참고
-<!--
+
 ---
 
 ## :pushpin: Projects
@@ -37,9 +38,10 @@
 >[프로젝트 상세 설명]() 참고
 
 ---
--->
+
 ### 3. [marguerite](https://github.com/jin4618/marguerite)
 >marguerite 쇼핑몰 웹 사이트 (팀 프로젝트)   
+>
 >개발 기간: 2023.01.02. ~ 2023.01.31.   
 >
 >기술 스택: 
@@ -47,3 +49,4 @@
 >
 >[프로젝트 상세 설명](https://github.com/jin4618/marguerite) 참고
 
+-->
