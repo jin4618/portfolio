@@ -14,13 +14,12 @@
 
 ## :pushpin: Projects
 <!--
-### 1. [첫 번째 프로젝트]()
+### 1. [CafeSmartOrder]()
 >카페스마트오더 (팀 프로젝트)
->개발 기간:
+>개발 기간: 2022.9.13. ~ 2022.9.19.   
 >
 기술 스택:
->Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U
+>Java 11 / Oracle
 >
 >[프로젝트 상세 설명]() 참고
 
