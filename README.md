@@ -13,16 +13,16 @@
 </br>
 
 ## :pushpin: Projects
-<!--
-### 1. [CafeSmartOrder]()
+
+### 1. [CafeSmartOrder](https://github.com/jin4618/cafesmartorder)
 >카페스마트오더 (팀 프로젝트)
 >개발 기간: 2022.9.13. ~ 2022.9.19.   
 >
 기술 스택:
 >Java 11 / Oracle
 >
->[프로젝트 상세 설명]() 참고
-
+>[프로젝트 상세 설명](https://github.com/jin4618/cafesmartorder) 참고
+<!--
 ---
 
 ## :pushpin: Projects
