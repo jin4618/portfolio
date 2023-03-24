@@ -1,13 +1,13 @@
 # 포트폴리오
-><!--실패 속에서 성장하는 개발자-->
+>실패 속에서 성장하는 개발자
 
 </br>
 
 ## :pushpin: Intro
-<!-- 실패 속에서 그것을 자양분 삼아 성장하는 개발자 김지은 입니다.   -->
+실패 속에서 그것을 자양분 삼아 성장하는 개발자 김지은 입니다.   
 
 ## :pushpin: Contact
-<!-- - Email: wldmsdl2395@naver.com   -->
+- Email: wldmsdl2395@naver.com   
 - GitHub: https://github.com/jin4618   
 
 </br>
