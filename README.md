@@ -28,7 +28,6 @@
 
 ---
 
-## :pushpin: Projects
 ### 2. [Mubi](https://github.com/jin4618/Mubi)
 >Mubi 영화 예매 웹 사이트 (팀 프로젝트)   
 >
