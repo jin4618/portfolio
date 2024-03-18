@@ -11,7 +11,7 @@
 또한, 보완하는 과정에서 나의 부족한 부분을 알게 되었고, 학원 수업과는 별개로 친구들과 토이 프로젝트를 추가로 진행하였습니다. 서로 부족한 부분을 채워 나가며 스터디를 하고 그 결과 패션 쇼핑몰 사이트 ‘marguerite’를 구축하여 조금 더 성장할 수 있었습니다. 실패는 언제나 저에게 새로운 도전이었고, 성취와 성공의 기회였습니다.
 ## :pushpin: Contact
 - Email: wldmsdl2395@naver.com   
-- GitHub: https://github.com/jin4618   
+- GitHub: https://bit.ly/3Y7pT21   
 
 </br>
 
